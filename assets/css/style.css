@@ -247,20 +247,20 @@ input[type=submit] {
 @media screen and (max-width: 768px) {
     .container {  
       width: 100%;
-      max-width: 768px;
+      max-width: 80%;
       margin: 0 auto;
       clear: both;}
       .main-section {
-        width: 65%}
+        width: 100%;
+        max-width: 100%;
+      }
       .sidebar{
-        width: 30%
+        width: 100%;
+        max-width:100%;
+        text-align: center;
       }
       
 }
 @media screen and (max-width: 640px) {
-    .container {  
-      width: 100%;
-      max-width: 640px;
-      margin: 0 auto;
-      clear: both;}
+    
 }
