@@ -240,7 +240,7 @@ input[type=submit] {
 @media screen and (max-width: 980px) {
     .container {  
       width: 100%;
-      max-width: 980px;
+      max-width: 920px;
       margin: 0 auto;
       clear: both;}
 }
@@ -251,9 +251,9 @@ input[type=submit] {
       margin: 0 auto;
       clear: both;}
       .main-section {
-        width: 100%}
+        width: 65%}
       .sidebar{
-        width: 100%
+        width: 30%
       }
       
 }
